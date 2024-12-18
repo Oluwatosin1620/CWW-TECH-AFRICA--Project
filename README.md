@@ -8,7 +8,10 @@ This is an analysis and visualization of students' performance using Power BI to
 This data was sourced from Kaggle
 
 ## Data Description
-This education dataset provides the academic journey of 2,392 high school students. 
+This education dataset provides the academic journey of 2,392 high school students. The dataset consists of 15 rows. After data cleaning, the rows that were not necessary for the analysis were removed leaving behind 12 rows for analysis.
+
+## Key features
+StudentID, Age, Gender, Ethnicity, Parental Education, Studytime Weekly, Absentees, Tutoring, Parental Support, Extracurricular, Sports, Music, Volunteering, GPA and Grade Class 
 
 
 
