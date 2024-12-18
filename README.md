@@ -20,6 +20,14 @@ StudentID, Age, Gender, Ethnicity, Parental Education, Studytime Weekly, Absente
   > Data storytelling and EDA
 
 
+## POWER BI
+
+
+## EDA [Exploratory Data Analysis]
+The following insights were drawn:
+1. 
+
+
 
 
 
