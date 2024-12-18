@@ -7,3 +7,11 @@ This is an analysis and visualization of students' performance using Power BI to
 ## Data Source
 This data was sourced from Kaggle
 
+## Data Description
+This education dataset provides the academic journey of 2,392 high school students. 
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/7ccbb198-4cf1-4e46-806d-019e4dc9f21d)
