@@ -9,6 +9,8 @@ This data was sourced from Kaggle
 
 ## Data Description
 This education dataset provides the academic journey of 2,392 high school students. The dataset consists of 15 rows. After data cleaning, the rows that were not necessary for the analysis were removed leaving behind 12 rows for analysis.
+---
+
 
 ## Key features
 StudentID, Age, Gender, Ethnicity, Parental Education, Studytime Weekly, Absentees, Tutoring, Parental Support, Extracurricular, Sports, Music, Volunteering, GPA and Grade Class.
@@ -21,7 +23,7 @@ StudentID, Age, Gender, Ethnicity, Parental Education, Studytime Weekly, Absente
 
 
 ## POWER BI
-
+---
 
 ## EDA [Exploratory Data Analysis]
 The following insights were drawn:
@@ -37,3 +39,8 @@ The following insights were drawn:
 
 
 ![image](https://github.com/user-attachments/assets/7ccbb198-4cf1-4e46-806d-019e4dc9f21d)
+
+
+![Student performance data](https://github.com/user-attachments/assets/5b908c44-0753-4fae-8639-89ff709a5249)
+
+
