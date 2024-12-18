@@ -1,4 +1,4 @@
-# CWW-TECH-AFRICA--Project
+Total # CWW-TECH-AFRICA--Project
 Where I documented my project using Power BI
 
 ## Project Overview
@@ -25,9 +25,14 @@ StudentID, Age, Gender, Ethnicity, Parental Education, Studytime Weekly, Absente
 
 ## EDA [Exploratory Data Analysis]
 The following insights were drawn:
-1. 
-
-
+1. The total number of students that passed and failed.
+2. What is the average score of male and female students?
+3. How does parental education affect students' grades?
+4. What is the influence of parental support on grades?
+5. How do absences affect grades?
+6. The effect of extracurricular activities on grades,
+7. What is the effect of student ethnicity on age and grade?
+8. How weekly studies affect grades.
 
 
 
